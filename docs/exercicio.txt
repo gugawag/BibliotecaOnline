@@ -1,0 +1,8 @@
+== Exerc’cio ==
+
+1 - Desenvolva um JSP que imprime a lista de Alunos (alunos) do escopo de sess‹o;
+   - Se n‹o houver qualquer aluno deve-se informar: "N‹o h‡ alunos cadastrados". Use para isso a tag <c:if
+  
+2 - Inclua o menu.jsp em todas as p‡ginas usando a a‹o <jsp:include...> e veja o resultado. Veja a p‡gina principal.jsp como exemplo;
+
+3 - Altere o menu.jsp para mostrar o nome do usu‡rio logado (atributo usuario da sess‹o) utilizando JSP-EL;
